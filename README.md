@@ -8,3 +8,5 @@ PyTorch
 Gradio
 USAGE
 Simply upload an image, and the pipeline will process it to convert the minority hair color into the majority hair color while preserving the natural look of the hair.
+# Preview
+https://www.youtube.com/watch?v=80StsWrfD8w
